@@ -1,0 +1,162 @@
+
+SC ON bsc MAINNET
+
+stableToken at "0x55d398326f99059fF775485246999027B3197955";
+FORM at "0x25A528af62e56512A19ce8c3cAB427807c28CC19";
+
+ALPHA
+
+"HoldTimeAlpha"  deployed at 0x12c5e7D9f572fA3B230559eCF3d1a7bD7ABe3Ee1 
+"TokenAlpha"  deployed at 0x53ca73EE747ceD027c677feCCC13b885f31Ee4dF 
+"DepositProofAlpha"  deployed at 0x8D769F45c94CEA310018d37BD06fc42e7DB060FF 
+"WithdrawalProofAlpha"  deployed at 0xF0aD135A657808a3E576183Eb647872d901CFF02 
+"TreasuryAlpha"  deployed at 0x0518EbdD8dE2cEAE8eaeD1c5cd93234bA14E75d0 
+"ManagementAlpha"  deployed at 0xbebbaE6f1062E4Cd5652B9d8e1B8aECBEE993A9E 
+"InvestmentAlpha" deployed at 0x64B41253C0B4fCa4885c3dc24B7562A3B02C02Cc 
+"AssetBookAlpha" deployed at 0x237dE63F93E9d8f35660CeE7BaeE193305a76E94 
+"SafeHouseAlpha"  deployed at 0x56AC037b5cD072621f940344647cc9394224e10f 
+
+BETA
+
+"HoldTimeBeta"  deployed at 0x747cf62CA0cd7DFF0653759618aC1bDcA2eb33AB 
+"TokenBeta" deployed at 0x9C1A18A734dFAe6e6f89942f358e7270BecdB002 
+"DepositProofBeta" deployed at 0x2D9De469F60610C34e883414eed3a556924D672C 
+"WithdrawalProofBeta" deployed at 0x5FdBAafa4881a0f1F513c326F54Ce1Bf8d30Aa52 
+"TreasuryBeta" deployed at 0xA70FD08eA376Bf9d9D3954aFDc11A9759862cD43 
+"ManagementBeta"  deployed at 0x19d6D19a034BB886507DC08dF99716f418bD61a3 
+"InvestmentBeta"  deployed at 0x0f20180e0F84a8cc4A4821eC24E7d9a9b70ED1A8 
+"AssetBookBeta"  deployed at 0xb93633f8770732aDb25770C5F5D517dCf5388A56 
+"SafeHouseBeta"  deployed at 0x5503AAEb0C81f482503D223147757Fe120366fa2 
+
+GAMMA 
+
+"HoldTimeGamma"  deployed at 0x48290a904d83179f0D624C88d568096aF207F4A7 
+"TokenGamma" deployed at 0xb2d66C5ECcde53e94019556138Cbf41700E5c49E 
+"DepositProofGamma"  deployed at 0xc4075EE3ad1F5fA3205CF45A92B9B963BdC0F31a 
+"WithdrawalProofGamma"  deployed at 0xbE721812442C648c191Bc267659374036fd68918 
+"TreasuryGamma"  deployed at 0x723065951c4D90Eed407Ed035821542433A4b94A 
+"ManagementGamma"  deployed at 0x8849FCE3fB3d82BBF14e1FC9D7E82EAfEB4b2904 
+"InvestmentGamma" deployed at 0xD5c0f9aBAe806eBeEe7d957Fee09403390cfF0B3 
+"AssetBookGamma"  deployed at 0xbe2B4fADb73cBb25009960ddf7539b75C5941425 
+"SafeHouseGamma"  deployed at 0x7350708656682Ad41DebcEf103f6CA31d960f641
+
+
+PARITY 
+
+"ParityLine"  at 0xCFBA9a6F71F15b3637c1DBC696Ab2DBc249B9050 
+"TokenParityLogic" deployed at 0xeC54FaaF10276bfe55027570E3116B820bBFE830 
+"TokenParityView"  deployed at 0x968490fe4733E7C1820079bcc46b3997F1e2546a 
+"TokenParityStorage" at 0x3A940fA6D6A02789b25Cf562DC65fc0d177d620f 
+"TokenParity"  at 0x2A3cdF2dAECa1a1106C0F086e54E5f534Fe4C7e0 
+"ManagementParityParams"  at 0xB15ED5c6e800Eca6ae3330237B1600aB06056A5a 
+"SafeHouseParity"  at 0x902a98Cb53633364Bb47E7F4c20596D5b3C69e8B 
+
+"ManagementParity" at 0x4469AB440720EE7177Ded65EE48B56d8D8Bc6D08 
+"InvestmentParity"at 0xe24F41785d50917Cd52463042a39d226643A1ccD 
+"StakingAlpha" at 0x2aCC7D3c836abd2529d93BAB0844dAf2e5d3AcFE 
+"StakingBeta" at 0xbD42e1819D96F9d2621C71812830F224e6874B72
+"StakingGamma"  at 0xa6E41d14a9Fa292b79255a576c7058F44Ab22f7e
+"StakingParity" at 0x7FB2e4a38A3bcc530A937b07dA17959380A828c2
+
+
+
+SC ON Polygon MAINNET
+
+FORM  "0x74C8B94ecA3B47b1179fd1f48983CBEd265b67af";
+
+
+ALPHA
+
+"HoldTimeAlpha" deployed at 0x8D769F45c94CEA310018d37BD06fc42e7DB060FF
+"TokenAlpha" deployed at 0xF0aD135A657808a3E576183Eb647872d901CFF02
+"DepositProofAlpha" deployed at 0x0518EbdD8dE2cEAE8eaeD1c5cd93234bA14E75d0
+"WithdrawalProofAlpha"  deployed at 0xbE721812442C648c191Bc267659374036fd68918 
+"TreasuryAlpha" deployed at 0x723065951c4D90Eed407Ed035821542433A4b94A 
+"ManagementAlpha"  deployed at 0x8849FCE3fB3d82BBF14e1FC9D7E82EAfEB4b2904 
+"InvestmentAlpha"  deployed at 0xD5c0f9aBAe806eBeEe7d957Fee09403390cfF0B3 
+"AssetBookAlpha"  deployed at 0xbe2B4fADb73cBb25009960ddf7539b75C5941425 
+"SafeHouseAlpha"  deployed at 0x7350708656682Ad41DebcEf103f6CA31d960f641 
+
+
+
+BETA
+
+"HoldTimeBeta"  deployed at 0x19d6D19a034BB886507DC08dF99716f418bD61a3 
+"TokenBeta"  deployed at 0x0f20180e0F84a8cc4A4821eC24E7d9a9b70ED1A8 
+"DepositProofBeta"  deployed at 0xb93633f8770732aDb25770C5F5D517dCf5388A56 
+"WithdrawalProofBeta" deployed at 0x5503AAEb0C81f482503D223147757Fe120366fa2 
+"TreasuryBeta"  deployed at 0xC9a5253203CeAE620F06419a056CC42cFfBC6AA9 
+"ManagementBeta"  deployed at 0xbE49a740c48F9D4347De8994c488333d492a4e19 
+"InvestmentBeta" deployed at 0x48290a904d83179f0D624C88d568096aF207F4A7 
+"AssetBookBeta" deployed at 0xb2d66C5ECcde53e94019556138Cbf41700E5c49E 
+"SafeHouseBeta"  deployed at 0xc4075EE3ad1F5fA3205CF45A92B9B963BdC0F31a
+
+
+
+GAMMA
+
+"HoldTimeGamma"  deployed at 0xbebbaE6f1062E4Cd5652B9d8e1B8aECBEE993A9E
+"TokenGamma"  deployed at 0x64B41253C0B4fCa4885c3dc24B7562A3B02C02Cc 
+"DepositProofGamma"  deployed at 0x237dE63F93E9d8f35660CeE7BaeE193305a76E94 
+"WithdrawalProofGamma"  deployed at 0x56AC037b5cD072621f940344647cc9394224e10f 
+"TreasuryGamma"  deployed at 0x747cf62CA0cd7DFF0653759618aC1bDcA2eb33AB 
+"ManagementGamma"  deployed at 0x9C1A18A734dFAe6e6f89942f358e7270BecdB002 
+"InvestmentGamma" deployed at 0x2D9De469F60610C34e883414eed3a556924D672C 
+"AssetBookGamma"  deployed at 0x5FdBAafa4881a0f1F513c326F54Ce1Bf8d30Aa52 
+"SafeHouseGamma"  deployed at 0xA70FD08eA376Bf9d9D3954aFDc11A9759862cD43
+
+PARITY
+"ParityLine"  at 0x4Dd6B8C576aC2F94D25528c1Bb12742563450537
+deploying "TokenParityLogic"  deployed at 0xFa9Db10A767B0DCC99D5D528B0DE697317a6E2fE
+deploying "TokenParityView"  deployed at 0x968d059369c67C26d680048C44Ecb5827B83b380 
+"TokenParityStorage"  at 0x4cE1Fe8B8E038c9480f4f7bA3Dd3eB7077f3Eae5 
+"TokenParity"  at 0x8Bf57C59A9849bc0973308CC35F439d340AAe060 
+"InvestmentParity" at 0xE76c69D8F94122B4d146C6E04b39787803ca7980 
+"ManagementParityParams" at 0xC5411D704AC7B25c18399D9682e2eea7e3a9Cc2d
+"SafeHouseParity" at 0xcE1f01a892CF4Ed066efA82f8139AAf0d4B9af42
+"ManagementParity" at 0xD39EBdd40a86379Fe73Ddeb6d6794158D06cE2D1
+deploying "StakingAlpha" deployed at 0x35f23D334541203ef77dB3DA53CAaF7E915Bd859 
+deploying "StakingBeta"  deployed at 0x57A44FfB0bADDBA3038218536447B35A8F75a8BA 
+deploying "StakingGamma" deployed at 0x3275b50CEBd205fe5bC84f71b21c615A1132757D 
+deploying "StakingParity" deployed at 0x9ed81cff77F2e54d83e98282241d48db9898126F 
+
+
+Ethereum
+ 
+stableToken (USDT) = "0xdAC17F958D2ee523a2206206994597C13D831ec7";
+
+Alpha 
+deploying "HoldTimeAlpha" deployed at 0x53ca73EE747ceD027c677feCCC13b885f31Ee4dF 
+deploying "TokenAlpha"  deployed at 0x8D769F45c94CEA310018d37BD06fc42e7DB060FF 
+deploying "DepositProofAlpha"  deployed at 0xF0aD135A657808a3E576183Eb647872d901CFF02
+deploying "WithdrawalProofAlpha"  deployed at 0x0518EbdD8dE2cEAE8eaeD1c5cd93234bA14E75d0
+deploying "TreasuryAlpha" deployed at 0x917Dec829B8Bdc99d5C247cc2f2a8f91b72EFf2a
+deploying "ManagementAlpha"  deployed at 0xbebbaE6f1062E4Cd5652B9d8e1B8aECBEE993A9E
+deploying "InvestmentAlpha"  deployed at 0x64B41253C0B4fCa4885c3dc24B7562A3B02C02Cc 
+deploying "AssetBookAlpha" deployed at 0x237dE63F93E9d8f35660CeE7BaeE193305a76E94 
+deploying "SafeHouseAlpha"  deployed at 0x56AC037b5cD072621f940344647cc9394224e10f 
+
+Beta 
+
+deploying "HoldTimeBeta"  deployed at 0x747cf62CA0cd7DFF0653759618aC1bDcA2eb33AB 
+deploying "TokenBeta"  deployed at 0x9C1A18A734dFAe6e6f89942f358e7270BecdB002 
+deploying "DepositProofBeta" deployed at 0x2D9De469F60610C34e883414eed3a556924D672C 
+deploying "WithdrawalProofBeta"  deployed at 0x5FdBAafa4881a0f1F513c326F54Ce1Bf8d30Aa52 
+deploying "TreasuryBeta"  deployed at 0xA70FD08eA376Bf9d9D3954aFDc11A9759862cD43 
+deploying "ManagementBeta" deployed at 0x19d6D19a034BB886507DC08dF99716f418bD61a3 
+deploying "InvestmentBeta"  deployed at 0x0f20180e0F84a8cc4A4821eC24E7d9a9b70ED1A8 
+deploying "AssetBookBeta" deployed at 0xb93633f8770732aDb25770C5F5D517dCf5388A56 
+deploying "SafeHouseBeta"  deployed at 0x5503AAEb0C81f482503D223147757Fe120366fa2 
+
+Gamma 
+
+deploying "HoldTimeGamma" deployed at 0xC9a5253203CeAE620F06419a056CC42cFfBC6AA9 
+deploying "TokenGamma" deployed at 0xbE49a740c48F9D4347De8994c488333d492a4e19 
+deploying "DepositProofGamma"  deployed at 0x48290a904d83179f0D624C88d568096aF207F4A7 
+deploying "WithdrawalProofGamma" deployed at 0xb2d66C5ECcde53e94019556138Cbf41700E5c49E 
+deploying "TreasuryGamma" deployed at 0xc4075EE3ad1F5fA3205CF45A92B9B963BdC0F31a 
+deploying "ManagementGamma"  deployed at 0xbE721812442C648c191Bc267659374036fd68918 
+deploying "InvestmentGamma"  deployed at 0x723065951c4D90Eed407Ed035821542433A4b94A 
+deploying "AssetBookGamma"  deployed at 0x8849FCE3fB3d82BBF14e1FC9D7E82EAfEB4b2904
+deploying "SafeHouseGamma"  deployed at 0xD5c0f9aBAe806eBeEe7d957Fee09403390cfF0B3 
+
